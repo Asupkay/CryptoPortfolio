@@ -1,0 +1,22 @@
+{
+  "name": "cryptoportfolio",
+  "version": "1.0.0",
+  "description": "Crypto portfolio for tracking alt-coin profit and loss",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://asupkay@github.com/Asupkay/CryptoPortfolio.git"
+  },
+  "author": "Alex Supkay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Asupkay/CryptoPortfolio/issues"
+  },
+  "homepage": "https://github.com/Asupkay/CryptoPortfolio#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
