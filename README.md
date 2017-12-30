@@ -9,6 +9,12 @@ Author: Alex Supkay, Stephen McCardle
 * Backend - Node/Express
 * Login - Passport or Firebase
 
+## Views
+
+* Landing Page
+* Login
+* Portfolio 
+
 ## Database Collections
 * Users - User storage
 * Prices - Alt-coin prices
