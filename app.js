@@ -8,10 +8,12 @@ app.use(bodyParser.json());
 
 const exphbs = require('express-handlebars');
 
+//Implement the public information
 app.use("/public", static);
 app.engine('handlebars', exphbs({defaultLayout: 'main'}));
 app.set('view engine', 'handlebars');
 
+//Implement the routes
 configRoutes(app);
 
 app.listen(3000, () => {
