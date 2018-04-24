@@ -1,7 +1,7 @@
 # Cryto Portfolio Website
 *Description* - Make a website to track a variety of different alt coins to see profit and loss over time
 
-Author: Alex Supkay, Stephen McCardle
+Author: Alex Supkay
 
 ## Technology Used
 * Template - Handlebars
